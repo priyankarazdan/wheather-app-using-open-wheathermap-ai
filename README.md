@@ -1,1 +1,0 @@
-# wheather-app-using-open-wheathermap-ai
